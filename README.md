@@ -1,2 +1,1 @@
-# XXE
-XML external entity
+# XML external entity
